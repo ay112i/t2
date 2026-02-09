@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as n}from"./index-C7RkNtaK.js";const t={components:{},mounted(){console.log(void 0)}};function c(s,r,a,p,u,_){return n(),e("p",null,"About")}const d=o(t,[["render",c]]);export{d as default};
